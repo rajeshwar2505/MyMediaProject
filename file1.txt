@@ -1,5 +1,6 @@
 Class HellowWorld{
-main(){
+Public statuc void main(String args[]){
+
 system.debug("Welcome to Git!!!");
 }
 }
