@@ -1,4 +1,14 @@
 Class HellowWorld{
+
+		void myMethod(0{
+			if(){
+
+				for(){
+
+					}
+				}
+		}
+
 Public statuc void main(String args[]){
 
 system.out.println("Welcome to Git!!!");
