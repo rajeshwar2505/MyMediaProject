@@ -5,6 +5,9 @@ Class HellowWorld{
 		system.out.println();
 	}
 	
+	void resolbeBug(){
+		//bug resolved
+	}
 
 	Public statuc void main(String args[]){
 
