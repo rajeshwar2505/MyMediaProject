@@ -1,6 +1,6 @@
 Class HellowWorld{
 	
-	void displayHellow(string str){
+	public static void displayHellow(String str){
 	
 		system.out.println();
 	}
@@ -10,5 +10,7 @@ Class HellowWorld{
 
 		HellowWorld obj new HellowWorld();
 		obj.displayHellow('Hey Git...!!! Conflic here');
+
+		displayHellow("welcome to Git!!!");
 	}
 }
