@@ -1,16 +1,13 @@
 Class HellowWorld{
+	
+	void displayHellow(){
+	
+		system.out.println("welcome to Git!!!");
+	}
+	
 
-		void myMethod(0{
-			if(){
+	Public statuc void main(String args[]){
 
-				for(){
-
-					}
-				}
-		}
-
-Public statuc void main(String args[]){
-
-system.out.println("Welcome to Git!!!");
-}
+		system.out.println("Welcome to Git!!!");
+	}
 }
