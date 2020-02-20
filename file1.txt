@@ -1,13 +1,13 @@
 Class HellowWorld{
 	
-	void displayHellow(){
+	static void displayHellow(String str){
 	
-		system.out.println("welcome to Git!!!");
+		system.out.println();
 	}
 	
 
 	Public statuc void main(String args[]){
 
-		system.out.println("Welcome to Git!!!");
+		displayHellow("welcome to Git!!!");
 	}
 }
